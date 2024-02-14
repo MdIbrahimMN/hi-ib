@@ -1,2 +1,6 @@
-# hi-ib
-this my world fellow
+#include <stdio.h>
+void main()
+{
+  printf("c program");
+  getch();
+}
