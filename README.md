@@ -1,6 +1,2 @@
-#include <stdio.h>
-void main()
-{
-  printf("c program");
-  getch();
-}
+#hello world
+this is my world
